@@ -22,7 +22,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 
 ## Schedule
 **Tuesday, November 17**
-- 11:30 - 11:35 am: Maicon Peixinho -  [LinkedIn](linkedin.com/in/maiconpeixinho), Beyond the Run: Software Attestation in the Agentic Era
+- 11:30 - 11:35 am: Maicon Peixinho -  [LinkedIn](https://linkedin.com/in/maiconpeixinho), Beyond the Run: Software Attestation in the Agentic Era
 - 3:40 - 3:45 pm: [Add: Your name + LinkedIn link, your presentation title]
 
 **Wednesday, November 18**
